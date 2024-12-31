@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\parkj\\Documents\\GitHub\\practice\\Baekjoon_C\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1A3AD16D-EA41-41DC-B4D9-7E7D128D818B}|Baekjoon_C\\Baekjoon_C.vcxproj|C:\\Users\\parkj\\Documents\\GitHub\\practice\\Baekjoon_C\\Baekjoon_C\\practice.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1A3AD16D-EA41-41DC-B4D9-7E7D128D818B}|Baekjoon_C\\Baekjoon_C.vcxproj|solutionrelative:Baekjoon_C\\practice.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "practice.c",
+              "DocumentMoniker": "C:\\Users\\parkj\\Documents\\GitHub\\practice\\Baekjoon_C\\Baekjoon_C\\practice.c",
+              "RelativeDocumentMoniker": "Baekjoon_C\\practice.c",
+              "ToolTip": "C:\\Users\\parkj\\Documents\\GitHub\\practice\\Baekjoon_C\\Baekjoon_C\\practice.c",
+              "RelativeToolTip": "Baekjoon_C\\practice.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-12-31T13:05:21.036Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
