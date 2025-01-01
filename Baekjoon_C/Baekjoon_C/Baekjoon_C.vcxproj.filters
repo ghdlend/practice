@@ -15,7 +15,10 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="practice.c">
+    <ClCompile Include="Hello.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="arithmetic_operations.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
