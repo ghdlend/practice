@@ -21,5 +21,8 @@
     <ClCompile Include="arithmetic_operations.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="compare.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
