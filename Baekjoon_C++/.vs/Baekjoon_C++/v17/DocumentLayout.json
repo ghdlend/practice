@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\parkj\\Documents\\GitHub\\practice\\Baekjoon_C\u002B\u002B\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{18DFAE3C-B833-47E1-8F4E-4F407FE191F2}|Baekjoon_C\u002B\u002B\\Baekjoon_C\u002B\u002B.vcxproj|C:\\Users\\parkj\\Documents\\GitHub\\practice\\Baekjoon_C\u002B\u002B\\Baekjoon_C\u002B\u002B\\compare.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{18DFAE3C-B833-47E1-8F4E-4F407FE191F2}|Baekjoon_C\u002B\u002B\\Baekjoon_C\u002B\u002B.vcxproj|solutionrelative:Baekjoon_C\u002B\u002B\\compare.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{18DFAE3C-B833-47E1-8F4E-4F407FE191F2}|Baekjoon_C\u002B\u002B\\Baekjoon_C\u002B\u002B.vcxproj|C:\\Users\\parkj\\Documents\\GitHub\\practice\\Baekjoon_C\u002B\u002B\\Baekjoon_C\u002B\u002B\\arithmetic_operation.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{18DFAE3C-B833-47E1-8F4E-4F407FE191F2}|Baekjoon_C\u002B\u002B\\Baekjoon_C\u002B\u002B.vcxproj|solutionrelative:Baekjoon_C\u002B\u002B\\arithmetic_operation.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -23,19 +27,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "compare.cpp",
+              "DocumentMoniker": "C:\\Users\\parkj\\Documents\\GitHub\\practice\\Baekjoon_C\u002B\u002B\\Baekjoon_C\u002B\u002B\\compare.cpp",
+              "RelativeDocumentMoniker": "Baekjoon_C\u002B\u002B\\compare.cpp",
+              "ToolTip": "C:\\Users\\parkj\\Documents\\GitHub\\practice\\Baekjoon_C\u002B\u002B\\Baekjoon_C\u002B\u002B\\compare.cpp",
+              "RelativeToolTip": "Baekjoon_C\u002B\u002B\\compare.cpp",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-02T15:29:33.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "arithmetic_operation.cpp",
               "DocumentMoniker": "C:\\Users\\parkj\\Documents\\GitHub\\practice\\Baekjoon_C\u002B\u002B\\Baekjoon_C\u002B\u002B\\arithmetic_operation.cpp",
               "RelativeDocumentMoniker": "Baekjoon_C\u002B\u002B\\arithmetic_operation.cpp",
               "ToolTip": "C:\\Users\\parkj\\Documents\\GitHub\\practice\\Baekjoon_C\u002B\u002B\\Baekjoon_C\u002B\u002B\\arithmetic_operation.cpp",
               "RelativeToolTip": "Baekjoon_C\u002B\u002B\\arithmetic_operation.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-01-01T15:55:07.205Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "practice.cpp",
               "DocumentMoniker": "C:\\Users\\parkj\\Documents\\GitHub\\practice\\Baekjoon_C\u002B\u002B\\Baekjoon_C\u002B\u002B\\practice.cpp",
               "RelativeDocumentMoniker": "Baekjoon_C\u002B\u002B\\practice.cpp",
