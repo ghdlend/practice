@@ -26,16 +26,16 @@
 # else:
 #     print("윤년이 아님")
 #4.사분면 
-x = int(input("x좌표를 입력해주시오 : "))
-y = int(input("y좌표를 입력해주시오 : "))
+# x = int(input("x좌표를 입력해주시오 : "))
+# y = int(input("y좌표를 입력해주시오 : "))
 
-if(x > 0 and y > 0):
-    print("1사분면")
-elif(x < 0 and y > 0):
-    print("2사분면")
-elif(x < 0 and y < 0):
-    print("3사분면")
-elif(x > 0 and y < 0):
-    print("4사분면")
-else:
-    print("값을 잘 못 입력하였습니다.")
+# if(x > 0 and y > 0):
+#     print("1사분면")
+# elif(x < 0 and y > 0):
+#     print("2사분면")
+# elif(x < 0 and y < 0):
+#     print("3사분면")
+# elif(x > 0 and y < 0):
+#     print("4사분면")
+# else:
+#     print("값을 잘 못 입력하였습니다.")
