@@ -130,6 +130,7 @@
     <ClCompile Include="arithmetic_operation.cpp" />
     <ClCompile Include="compare.cpp" />
     <ClCompile Include="practice.cpp" />
+    <ClCompile Include="repeating_sentence.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
