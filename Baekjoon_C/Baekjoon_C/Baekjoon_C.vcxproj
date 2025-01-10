@@ -127,6 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="addstar.c" />
     <ClCompile Include="arithmetic_operations.c" />
     <ClCompile Include="compare.c" />
     <ClCompile Include="Hello.c" />

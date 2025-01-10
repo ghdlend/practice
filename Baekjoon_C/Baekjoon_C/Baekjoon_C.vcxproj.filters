@@ -27,5 +27,8 @@
     <ClCompile Include="repeating sentence.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="addstar.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

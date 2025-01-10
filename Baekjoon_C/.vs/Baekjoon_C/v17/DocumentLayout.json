@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\parkj\\Documents\\GitHub\\practice\\Baekjoon_C\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{1A3AD16D-EA41-41DC-B4D9-7E7D128D818B}|Baekjoon_C\\Baekjoon_C.vcxproj|C:\\Users\\parkj\\Documents\\GitHub\\practice\\Baekjoon_C\\Baekjoon_C\\addstar.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1A3AD16D-EA41-41DC-B4D9-7E7D128D818B}|Baekjoon_C\\Baekjoon_C.vcxproj|solutionrelative:Baekjoon_C\\addstar.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1A3AD16D-EA41-41DC-B4D9-7E7D128D818B}|Baekjoon_C\\Baekjoon_C.vcxproj|C:\\Users\\parkj\\Documents\\GitHub\\practice\\Baekjoon_C\\Baekjoon_C\\repeating sentence.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{1A3AD16D-EA41-41DC-B4D9-7E7D128D818B}|Baekjoon_C\\Baekjoon_C.vcxproj|solutionrelative:Baekjoon_C\\repeating sentence.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -27,19 +31,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "addstar.c",
+              "DocumentMoniker": "C:\\Users\\parkj\\Documents\\GitHub\\practice\\Baekjoon_C\\Baekjoon_C\\addstar.c",
+              "RelativeDocumentMoniker": "Baekjoon_C\\addstar.c",
+              "ToolTip": "C:\\Users\\parkj\\Documents\\GitHub\\practice\\Baekjoon_C\\Baekjoon_C\\addstar.c",
+              "RelativeToolTip": "Baekjoon_C\\addstar.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-01-10T14:39:53.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "repeating sentence.c",
               "DocumentMoniker": "C:\\Users\\parkj\\Documents\\GitHub\\practice\\Baekjoon_C\\Baekjoon_C\\repeating sentence.c",
               "RelativeDocumentMoniker": "Baekjoon_C\\repeating sentence.c",
               "ToolTip": "C:\\Users\\parkj\\Documents\\GitHub\\practice\\Baekjoon_C\\Baekjoon_C\\repeating sentence.c",
               "RelativeToolTip": "Baekjoon_C\\repeating sentence.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAACAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-01-06T16:41:00.582Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "compare.c",
               "DocumentMoniker": "C:\\Users\\parkj\\Documents\\GitHub\\practice\\Baekjoon_C\\Baekjoon_C\\compare.c",
               "RelativeDocumentMoniker": "Baekjoon_C\\compare.c",
@@ -47,12 +64,11 @@
               "RelativeToolTip": "Baekjoon_C\\compare.c",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-01-02T14:28:14.824Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-02T14:28:14.824Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Hello.c",
               "DocumentMoniker": "C:\\Users\\parkj\\Documents\\GitHub\\practice\\Baekjoon_C\\Baekjoon_C\\Hello.c",
               "RelativeDocumentMoniker": "Baekjoon_C\\Hello.c",
