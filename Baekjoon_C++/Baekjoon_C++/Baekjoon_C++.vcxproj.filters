@@ -27,5 +27,8 @@
     <ClCompile Include="repeating_sentence.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="addstar.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
