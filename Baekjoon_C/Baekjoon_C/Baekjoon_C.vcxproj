@@ -131,6 +131,7 @@
     <ClCompile Include="arithmetic_operations.c" />
     <ClCompile Include="compare.c" />
     <ClCompile Include="Hello.c" />
+    <ClCompile Include="practice.c" />
     <ClCompile Include="repeating sentence.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
