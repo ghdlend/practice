@@ -1,0 +1,15 @@
+        Scanner sc = new Scanner(System.in);
+        int i = sc.nextInt();
+        int j = sc.nextInt();
+
+        if(i<j){
+            int k = i;
+            i = j;
+            j = k;
+        }
+        while(j != 0){
+            int k = i % j;
+            i = j;
+            j = k;
+        }
+        System.out.print(i);
